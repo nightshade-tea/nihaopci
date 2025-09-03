@@ -46,6 +46,7 @@ source vfio-user/Kconfig
 source vmapple/Kconfig
 source xen/Kconfig
 source watchdog/Kconfig
+source nihao/Kconfig
 
 # arch Kconfig
 source arm/Kconfig
